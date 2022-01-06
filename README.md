@@ -12,3 +12,5 @@ https://shookspear.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Echeta
+
+### ©️2019 Run Buddy, Inc
